@@ -5,7 +5,6 @@ import com.aman.ecommerce.user.dto.UserResponse;
 import com.aman.ecommerce.user.entity.User;
 import com.aman.ecommerce.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
